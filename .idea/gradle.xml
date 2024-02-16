@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/database" />
+            <option value="$PROJECT_DIR$/core/navigation" />
+            <option value="$PROJECT_DIR$/core/network" />
+            <option value="$PROJECT_DIR$/core/parser" />
+            <option value="$PROJECT_DIR$/featureA" />
+            <option value="$PROJECT_DIR$/featureA/api" />
+            <option value="$PROJECT_DIR$/featureA/data" />
+            <option value="$PROJECT_DIR$/featureA/domain" />
+            <option value="$PROJECT_DIR$/featureA/presentation" />
+            <option value="$PROJECT_DIR$/featureB" />
+            <option value="$PROJECT_DIR$/feed" />
+            <option value="$PROJECT_DIR$/utils" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
